@@ -1,0 +1,1 @@
+The MySQL schema is in `schema.sql`. Create the `community_library` database first in MySQL Workbench. The Express backend applies the schema automatically at startup and inserts sample books plus a demo administrator if the tables are empty.
